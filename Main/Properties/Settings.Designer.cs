@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace LeagueOrbwalker.Properties
+namespace Main.Properties
 {
 
 
