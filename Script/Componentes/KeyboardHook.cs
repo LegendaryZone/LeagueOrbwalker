@@ -134,6 +134,7 @@ namespace Script.Componentes
         const int KfAltdown = 0x2000;
         public const int LlkhfAltdown = (KfAltdown >> 8);
         public const int VkF1 = 112;
+        public const int KeyC = 67;
 
         public IntPtr LowLevelKeyboardProc(int nCode, IntPtr wParam, IntPtr lParam)
         {

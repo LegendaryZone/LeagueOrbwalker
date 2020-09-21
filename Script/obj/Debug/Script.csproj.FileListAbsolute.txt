@@ -8,3 +8,10 @@ C:\Users\Miquel\source\repos\zorbuk\LeagueOrbwalker\Script\obj\Debug\Script.exe
 C:\Users\Miquel\source\repos\zorbuk\LeagueOrbwalker\Script\obj\Debug\Script.pdb
 C:\Users\Miquel\source\repos\zorbuk\LeagueOrbwalker\Script\obj\Debug\Script.csprojAssemblyReference.cache
 C:\Users\Miquel\source\repos\zorbuk\LeagueOrbwalker\Script\obj\Debug\Script.Main.resources
+C:\Users\Miquel\source\repos\zorbuk\LeagueOrbwalker\Script\bin\Debug\Tesseract.dll
+C:\Users\Miquel\source\repos\zorbuk\LeagueOrbwalker\Script\obj\Debug\Script.csproj.CopyComplete
+C:\Users\Miquel\source\repos\zorbuk\LeagueOrbwalker\Script\bin\Debug\x64\liblept168.dll
+C:\Users\Miquel\source\repos\zorbuk\LeagueOrbwalker\Script\bin\Debug\x64\libtesseract302.dll
+C:\Users\Miquel\source\repos\zorbuk\LeagueOrbwalker\Script\bin\Debug\x86\liblept168.dll
+C:\Users\Miquel\source\repos\zorbuk\LeagueOrbwalker\Script\bin\Debug\x86\libtesseract302.dll
+C:\Users\Miquel\source\repos\zorbuk\LeagueOrbwalker\Script\bin\Debug\Tesseract.xml
