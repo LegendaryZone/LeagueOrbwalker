@@ -1,4 +1,4 @@
-﻿namespace LeagueOrbwalker
+﻿namespace Script
 {
     partial class Form1
     {
