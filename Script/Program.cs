@@ -16,7 +16,10 @@ namespace Script
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+
+            MessageBox.Show("LeagueOrbwalker\nCreado por Zorbuk.\nhttps://github.com/zorbuk/LeagueOrbwalker");
+
+            Application.Run(new Main());
         }
     }
 }
